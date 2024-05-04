@@ -1,4 +1,4 @@
-# media-manager
+# svelte-electron-template
 
 An Electron application with Svelte
 
